@@ -1,0 +1,5 @@
+com\adsi\dao\patrondao\connection\ConexionDb.class
+com\adsi\dao\patrondao\dao\UsuarioDao.class
+com\adsi\dao\patrondao\dao\impl\UsuarioDaoImpl.class
+com\adsi\dao\patrondao\Main.class
+com\adsi\dao\patrondao\entity\Usuario.class
